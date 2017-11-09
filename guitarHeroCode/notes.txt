@@ -1,0 +1,136 @@
+// description: input file for AutoGuitar.java
+Ab4 Bb4 Db5 Bb4 F5 R R F5 
+ R R Eb5 R R R R R 
+ Ab4 Bb4 Db5 Bb4 Eb5 R R Eb5 
+ R R Db5 R R C5 Bb4 R 
+ Ab4 Bb4 Db5 Ab4 Db5 R R R 
+ Eb5 R C5 R R Bb4 Ab4 R 
+ R R Ab4 R Eb5 R R R 
+ Db5 R R R R R R R 
+ 
+ Ab4 Bb4 Db5 Bb4 F5 R R F5 
+ R R Eb5 R R R R R 
+ Ab4 Bb4 Db5 Ab4 Ab5 R R R 
+ C5 R Db5 C5 Bb4 R R R 
+ Ab4 Bb4 Db5 Bb4 Db5 R R R 
+ Eb5 R C5 R R Bb4 Ab4 R
+ R R Ab4 R Eb5 R R R 
+ Db5 R R R R R R R 
+ R R R R 
+
+ R R Db5 R Db5 R Bb4 R 
+ Db5 R Eb5 R R R R R 
+ R R C5 R Bb4 R Bb4 R 
+ Ab4 R R R R R R R 
+ R R Bb4 R Bb4 R C5 R 
+ Db5 R Bb4 R Ab4 R R R 
+ R R Ab5 R Ab5 R Eb5 R 
+ R R F5 R Eb5 R Db5 R 
+ R R Db5 R Db5 R Bb4 R 
+ Db5 R Bb4 R Db5 R Eb5 R 
+ R R C5 R Bb4 R Bb4 R 
+ Ab4 R R R R R R R 
+ R R Bb4 R Bb4 R C5 R 
+ Db5 R Bb4 R Ab4 R R R 
+ R R Db5 R Eb5 R F5 R 
+ R R Eb5 R R R R R 
+ Db5 R R R R R R R 
+ R R Eb5 R F5 R Eb5 R 
+ R R Eb5 R Eb5 R F5 R 
+ Eb5 R Ab4 R Ab4 R R R 
+ R R R R R R Bb4 R 
+ Bb4 R C5 R Db5 R Bb4 R 
+ R R Eb5 R F5 R Eb5 R 
+ R R R R
+
+    
+    
+    
+R R R R Db5 R R Db5
+R R C5 R R R R R
+R R R R C5 R R C5
+R R Bb4 R R R R R
+R R R R Bb4 R R R
+Bb4 R C5 R R R R R
+R R C5 R C5 R R R
+Db5 R R R R R Ab4 Ab4
+Bb4 Db5 R Db5 Db5 R R Db5
+R R C5 R R R R R 
+R R R R Eb5 R R R
+Eb5 R Db5 R R R R R
+R R R R Bb4 R R R
+Bb4 R C5 R R R R R
+R R C5 R C5 R R R 
+Db5 R R R Ab4 Ab4 R R 
+Bb4 Bb4 Bb4 Bb4
+    
+Db5 R R R Bb4 R R R
+R R R R R R R R
+C5 R R R R R R R
+R R R R Bb4 R R R
+Bb4 R R R R R R R
+R R R R R R R R
+R R Db5 R Db5 R C5 R
+R R C5 R C5 R Ab4 R
+Bb4 R R R R R R R
+R R R R R R R R
+C5 R R R R R R R
+R R R R F5 R R R
+F5 R R R R R R R
+R R R R R R R R
+R R F5 R R R Eb5 R
+R R Db5 R R R Bb4 R
+R R R R R R R R
+Bb4 R R R R R R R
+Bb4 R R R R R R R 
+R R R R R R R R
+Bb4 R R R R R R R
+R R R R R R R R
+R R Db5 R Db5 R Eb5 R
+R R R R
+
+    
+    
+Db3 Db3 Db3 Db3 Db3 R R Db3
+R R Eb3 R R R Eb3 R
+Ab2 Ab2 Ab2 Ab2 Eb3 R R Eb3
+R R F3 R R R F R
+Ab3 Gb3 F3 Db3 Db3 R R R
+Db3 R Eb3 R R R Eb3 R
+Ab2 R Ab2 R C3 R R R
+Db3 R R R R R R R
+
+Db3 Db3 Db3 Db3 Db3 R R Db3
+R R Eb3 R R R Eb3 R
+Ab2 Ab2 Ab2 Ab2 Eb3 R R R
+Eb3 R Db3 R R R R R
+Db3 Db3 Db3 Db3 F3 R R R
+Ab3 R Ab3 R R R R R
+R R F3 R Eb3 R R R
+Db3 R R R R R R R
+R R R R
+
+Bb2 R R Bb2 R R Eb3 R
+R R Bb2 R Eb3 Bb3 R R
+Ab3 R R Ab3 R R F3 R
+R R Ab R Ab Ab R R
+Bb2 R R Bb2 R R Eb3 R
+R R Bb2 R Eb3 Bb2 R R
+Bb2 R R R F3 R Eb3 R 
+R R R R R R Ab2 R
+Bb2 R R Bb2 R R Eb3 R
+R R Bb2 R Eb3 Bb3 R R
+Ab3 R R Ab3 R R F3 R
+R R Ab R Ab Ab R R
+Bb2 R R Bb2 R R Eb3 R
+R R Bb2 R Eb3 Bb2 R R
+Ab3 R R Ab3 R R F3 R
+R R Ab3 R Ab3 Ab3 R R
+Bb2 R R Bb2 R R Eb3 R
+R R Bb2 R Eb3 Bb3 R R
+Ab3 R R Ab3 R R F3 R
+R R Ab R Ab Ab R R
+Bb2 R R Bb2 R R Eb3 R
+R R Bb2 R Eb3 Bb2 R R
+R R Db3 R Db3 R Ab3 R
+R R R R
